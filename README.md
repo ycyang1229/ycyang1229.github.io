@@ -9,11 +9,17 @@ https://webrtc.org/
 SDP: Session Description Protocol
 https://tools.ietf.org/html/rfc4566
 
+Source-Specific Media Attributes in the Session Description Protocol (SDP)
+https://tools.ietf.org/html/rfc5576
+
 RTP: A Transport Protocol for Real-Time Applications
 https://tools.ietf.org/html/rfc3550
 
 RTP Payload Format for H.264 Video
 https://tools.ietf.org/html/rfc6184
+
+RTP Retransmission Payload Format
+https://tools.ietf.org/html/rfc4588
 
 Symmetric RTP / RTP Control Protocol (RTCP)
 https://tools.ietf.org/html/rfc4961
