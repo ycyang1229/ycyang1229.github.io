@@ -1,5 +1,30 @@
 # workspace
 
+https://www.kurento.org/blog/rtp-i-intro-rtp-and-sdp
+
+RTP:
+
+RFC 3550 | RTP: A Transport Protocol for Real-Time Applications
+RFC 3551 | RTP Profile for Audio and Video (RTP/AVP)
+RFC 4585 | RTP Profile for RTCP-Based Feedback (RTP/AVPF)
+RFC 4961 | Symmetric RTP and RTCP
+RFC 5104 | Codec Control Messages in RTP/AVPF
+SDP:
+
+RFC 4566 | SDP: Session Description Protocol
+RFC 3605 | RTCP attribute in SDP
+RFC 3264 | SDP Offer/Answer Model
+RFC 4317 | SDP Offer/Answer Examples
+RFC 5506 | Reduced-Size RTCP
+RFC 5761 | Multiplexing RTP Data and Control Packets on a Single Port
+RTSP:
+
+RFC 2326 | Real Time Streaming Protocol (RTSP)
+RFC 7826 | Real-Time Streaming Protocol Version 2.0
+SRTP:
+
+RFC 3711 | Secure Real-time Transport Protocol (SRTP) and Profile (RTP/SAVP)
+
 WEBRTC(Web Real-Time Communication)
 https://www.w3.org/TR/webrtc/
 https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API
