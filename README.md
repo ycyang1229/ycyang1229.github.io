@@ -30,12 +30,15 @@ https://www.w3.org/TR/webrtc/
 https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API
 https://webrtc.org/
 
+SDP: Session Description Protocol
+https://tools.ietf.org/html/rfc2327
 
 SDP: Session Description Protocol
 https://tools.ietf.org/html/rfc4566
 
 Source-Specific Media Attributes in the Session Description Protocol (SDP)
 https://tools.ietf.org/html/rfc5576
+ 
 
 RTP: A Transport Protocol for Real-Time Applications
 https://tools.ietf.org/html/rfc3550
